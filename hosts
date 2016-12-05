@@ -5,6 +5,8 @@
 ## https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts
 ####################################################################
 #version=20161203
+127.0.0.1 ad.wifi.ggsafe.com
+127.0.0.1 ad.wifigx.com
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
 5.196.172.196 www.dxomark.com
