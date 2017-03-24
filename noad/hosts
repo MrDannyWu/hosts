@@ -261,7 +261,12 @@
 54.225.64.251	fbprod.flipboard.com
 # FlipBoard End
 
-# Github start
+# Github star
+192.30.253.118 gist.github.com
+151.101.64.133 assets-cdn.github.com
+151.101.64.133 avatars0.githubusercontent.com
+151.101.64.249 d2c87l0yth4zbw.global.ssl.fastly.net
+194.68.30.50 artists.spotify.com
 192.30.253.118	gist.github.com
 # Github end
 
