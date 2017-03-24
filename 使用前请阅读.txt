@@ -1,0 +1,17 @@
+欢迎使用最新DannyWu Google hosts!!!
+
+DannyWu Google hosts永久获取地址为：http://idannywu.com/hosts/.html
+百度或者谷歌输入dannywu googlehosts即可搜索到。
+
+对于Windows平台
+1、DannyWuGethosts.bat为自动获取文件（带有去广告的版本），双击即可运行
+运行时安全软件会报错，但不要紧，允许即可，如果是权限问题请修改权限
+
+2、DannyWuGetnoADhosts.bat为自动获取文件（不带有去广告的版本），双击即可运行
+运行时安全软件会报错，但不要紧，允许即可，如果是权限问题请修改权限
+
+3、Open etc.vbs为自动打开etc文件夹，双击即可运行
+
+其他平台修改请访问http://idannywu.com/hosts/.html
+          
+                        感谢您的使用！！！
